@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "text": "AngularJs Lernen",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "text": "HTML Lernen",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "text": "CSS Lernen",
+    "completed": false
+  }
+]
